@@ -1,7 +1,8 @@
-
+import Todolist from "./todolist";
 
 export default function App() {
+
   return (
-    <p></p>
+    <Todolist/>
   );
 }
